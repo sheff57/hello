@@ -1,0 +1,8 @@
+ 
+LANGUAGE 	CODE 
+Dutch 	NL 
+French 	FR 
+German 	DE 
+Italian 	IT 
+Portuguese 	PT 
+Spanish 	ES 
